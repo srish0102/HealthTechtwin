@@ -44,7 +44,7 @@ st.markdown("""
 # --- LOAD BRAIN ---
 model_path = os.path.join('Models', 'twin_brain.pkl')
 if not os.path.exists(model_path):
-    st.error("🧠 Brain not found! Please run 'TrainModel.py' first.")
+    st.error("Brain not found! Please run 'TrainModel.py' first.")
     st.stop()
 
 with open(model_path, 'rb') as f:

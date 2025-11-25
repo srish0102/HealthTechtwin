@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+build/./venv/bin/pip install -r requirements.txt
 develop-eggs/
 dist/
 downloads/

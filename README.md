@@ -99,10 +99,6 @@ HealthTechtwin/
 ├── requirements.txt        # Project Dependencies
 └── README.md               # Documentation
 
-Future Roadmap (v2.0)
-> Dataset Migration: Transitioning to the CDC BRFSS Dataset (250k+ records) for higher demographic fidelity.
-> LLM Integration: Implementing an OpenAI API wrapper to provide natural language explanations of the risk factors.
-> Wearable Sync: API endpoints to ingest real-time data from Fitbit/Apple Health.
 
 ## Contributing
 
